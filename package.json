@@ -1,25 +1,24 @@
 {
   "name": "bluearchive-logo",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
-  "author": "nulla",
+  "author": "tod",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/lodash-es": "^4.17.9",
+    "@types/lodash-es": "^4.17.11",
     "autoprefixer": "^10.4.16",
-    "daisyui": "^3.9.1",
+    "daisyui": "^4.4.2",
     "postcss": "^8.4.31",
-    "tailwindcss": "^3.3.3",
-    "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
   },
   "dependencies": {
-    "i18next": "^23.5.1",
+    "i18next": "^23.7.6",
     "lodash-es": "^4.17.21"
   }
 }
